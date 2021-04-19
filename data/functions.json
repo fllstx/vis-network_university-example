@@ -1,0 +1,22 @@
+[
+	{
+		"id": "mathematics",
+		"label": "Mathematics"
+	},
+	{
+		"id": "logistics",
+		"label": "Logistics"
+	},
+	{
+		"id": "technology",
+		"label": "Technology"
+	},
+	{
+		"id": "human resources",
+		"label": "Human resources"
+	},
+	{
+		"id": "psychology",
+		"label": "Psychology"
+	}
+]

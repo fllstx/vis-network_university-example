@@ -1,0 +1,22 @@
+[
+	{
+		"id": "college_of_business",
+		"label": "College of Business",
+		"description": "The premier College for all things business",
+		"schools": [
+			"school_of_finance",
+			"school_of_marketing",
+			"school_of_human_rescourcing"
+		]
+	},
+	{
+		"id": "college_of_law",
+		"label": "College of Law",
+		"description": "Australia's best legal education",
+		"schools": [
+			"school_of_law",
+			"school_of_international_relations",
+			"school_of_human_rights_and_ethics"
+		]
+	}
+]

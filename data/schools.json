@@ -1,0 +1,27 @@
+[
+	{
+		"id": "school_of_finance",
+		"label": "School of Finance",
+		"location": "Melbourne",
+		"courses": [
+			"course_economics_101"
+		],
+		"degrees": [
+			"degree_in_economics"
+		]
+	},
+	{
+		"id": "school_of_marketing",
+		"label": "School of Marketing",
+		"location": "Melbourne",
+		"courses": [
+			"advanced_marketing"
+		]
+	},
+	{
+		"id": "school_of_human_rescourcing",
+		"label": "School of Human Resourcing",
+		"location": null,
+		"courses": []
+	}
+]

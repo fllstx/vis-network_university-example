@@ -1,0 +1,24 @@
+[
+	{
+		"id": "degree_in_economics",
+		"label": "Degree in Economics",
+		"description": "This prepares you for a job in finance",
+		"courses": [
+			"economics_101",
+			"stockmarkets_101",
+			"advanced_algebra"
+		],
+		"owner": "school_of_finance"
+	},
+	{
+		"id": "degree_in_marketing",
+		"label": "Degree in Marketing",
+		"description": "This prepares you for a job in marketing",
+		"courses": [
+			"economics_101",
+			"advanced_marketing"
+		],
+		"owner": "school_of_finance"
+	}
+
+]

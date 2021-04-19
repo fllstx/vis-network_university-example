@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>vis-network examples</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./app.css">
+
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script type="text/javascript" src="./app.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", init);
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <h1>vis-network example</h1>
+    </header>
+    <nav>
+      <button class="filterBtn" onclick="btn1()" disabled>colleges > schools > degrees</button>
+      <button class="filterBtn" onclick="btn2()" disabled>functions > courses > degrees</button>
+      <button class="filterBtn" onclick="btn3()" disabled>courses > degrees</button>
+    </nav>
+    <main>
+      <div id="network">
+        loading data...
+      </div>
+    </main>
+    <footer>© <a href="https://fullstax.de">fullstax GmbH & Co. KG</a></footer>
+  </body>
+</html>

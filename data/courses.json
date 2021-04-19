@@ -1,0 +1,24 @@
+[
+	{
+		"id": "economics_101",
+		"label": "Economics 101",
+		"description": "A beginners guide to Economics",
+		"functions": [
+			"mathematics",
+			"logistics",
+			"technology"
+		],
+		"mode": "Face-to-Face"
+	},
+	{
+		"id": "advanced_marketing",
+		"label": "Advanced Marketing",
+		"description": "Techniques and Tools to progress customer pipelines",
+		"functions": [
+			"technology",
+			"human resources",
+			"psychology"
+		],
+		"mode": "Online"
+	}
+]
