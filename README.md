@@ -8,6 +8,7 @@ A vis-network example to show relations between schools, courses and degrees
 
 - I want a vis.js network map and a few buttons which change the structure of the network map.
 - Clicking a button will filter the datasets and update the network map.
+- When a node is selected I want to be able to hide/show a div for every child-node of the selection. I’ll do the css for the divs I’m talking about, so I’m just looking for the most efficient way of getting the list of the child-nodes each time a node is clicked.
 
 ### More info
 
